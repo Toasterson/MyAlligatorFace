@@ -1,0 +1,1 @@
+export const ADD_FRIEND_ACTION = 'ADD_FRIEND';
